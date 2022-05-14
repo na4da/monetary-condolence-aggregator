@@ -1,0 +1,11 @@
+---
+
+- name: 山田太郎
+  company: 〇〇株式会社
+  zipcode: 123-4567
+  address: 住所
+  tel: 01-2345-6789
+  whos_relationship: 故人
+  relationship: 親戚
+  amount: 10000
+  note: 連名(田中真一)
